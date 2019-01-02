@@ -1,0 +1,11 @@
+/Users/hasanbadran/Bell/bin/Debug/netcoreapp2.0/Bell.deps.json
+/Users/hasanbadran/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.json
+/Users/hasanbadran/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.dev.json
+/Users/hasanbadran/Bell/bin/Debug/netcoreapp2.0/Bell.dll
+/Users/hasanbadran/Bell/bin/Debug/netcoreapp2.0/Bell.pdb
+/Users/hasanbadran/Bell/obj/Debug/netcoreapp2.0/Bell.csprojAssemblyReference.cache
+/Users/hasanbadran/Bell/obj/Debug/netcoreapp2.0/Bell.csproj.CoreCompileInputs.cache
+/Users/hasanbadran/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfoInputs.cache
+/Users/hasanbadran/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfo.cs
+/Users/hasanbadran/Bell/obj/Debug/netcoreapp2.0/Bell.dll
+/Users/hasanbadran/Bell/obj/Debug/netcoreapp2.0/Bell.pdb
